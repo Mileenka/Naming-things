@@ -1,4 +1,4 @@
-/* Be-explicit 
+/* BE-EXPLICIT
 
 * By using more descriptive names like dayOfTheWeek instead of d in the forEach loop, 
 it becomes easier to understand the purpose and usage of the variable.
